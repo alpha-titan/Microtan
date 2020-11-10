@@ -2,4 +2,4 @@
 
 ## live site
 
-microtan.netlify.app
+https://www.microtan.netlify.app
